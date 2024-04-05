@@ -1,3 +1,3 @@
 # MergingTest
 
-Hello Master
+Hello Features branch
