@@ -1,1 +1,3 @@
 # MergingTest
+
+Hello Master
